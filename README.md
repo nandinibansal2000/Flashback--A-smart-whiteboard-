@@ -2,6 +2,9 @@
 
 It is an interactive whiteboard in which you can save information you write on the whiteboard using a key and recall the information using the same key.
 
+Link to the website:  https://akshalabhatnagar.wixsite.com/flashback
+Link to the working project video: https://drive.google.com/drive/u/0/my-drive
+
 The zip folder contains all the codes.
 
 Layout.py is the main code which calls the other codes on getting input from arduino.
@@ -21,3 +24,5 @@ Whiteboard-5860c17def84.json is the json file of the google lens.
 KeynInfo.txt is the txt file which conains all the information about which key is related to which information.
 
 serialMonitor(1).py is the code for taking input from arduino whenever reacall or new informaion button is pressed.
+
+
